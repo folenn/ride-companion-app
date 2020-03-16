@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8_login" transform="translate(-103.000000, -538.000000)" fill="#FFFFFF">
+            <g id="form" transform="translate(55.000000, 202.000000)">
+                <g id="social-buttons" transform="translate(10.000000, 315.000000)">
+                    <g id="social-button-3">
+                        <path d="M47.3461538,21.1298077 L47.3461538,23.9855769 L45.6478365,23.9855769 C44.3173077,23.9855769 44.0685096,24.6237981 44.0685096,25.5432692 L44.0685096,27.5877404 L47.2379808,27.5877404 L46.8161058,30.7896635 L44.0685096,30.7896635 L44.0685096,39 L40.7584135,39 L40.7584135,30.7896635 L38,30.7896635 L38,27.5877404 L40.7584135,27.5877404 L40.7584135,25.2295673 C40.7584135,22.4927885 42.4350962,21 44.8798077,21 C46.0480769,21 47.0540865,21.0865385 47.3461538,21.1298077 Z"
+                              id="facebook"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
